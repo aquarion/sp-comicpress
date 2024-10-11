@@ -1,4 +1,4 @@
-﻿Theme Name: ComicPress
+Theme Name: ComicPress
 Contributors: Frumph
 Theme URI: http://frumph.net/comicpress
 Description: Publish a WebComic with the ComicPress theme and the Comic Easel plugin.
